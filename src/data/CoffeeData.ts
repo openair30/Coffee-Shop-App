@@ -40,7 +40,7 @@ const CoffeeData = [
     index: 1,
   },
   {
-    id: 'C3',
+    id: 'C3'
     name: 'Americano',
     description: `The Americano is another popular type of coffee drink, and it's very easy to make! It's just espresso with hot water dripping over it. The name came about during World War II when European baristas added water to their espresso drinks for the American soldiers stationed there. The resulting drink had a smoother, less concentrated flavour than espresso and thus the Americano was born.`,
     roasted: 'Medium Roasted',
